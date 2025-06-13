@@ -19,7 +19,7 @@ A fun and interactive browser-based memory game built with **HTML**, **CSS**, **
 
 ## 🚀 Live Demo
 
-Play the game live:(https://your-username.github.io/simon-game/)
+Play the game live:(https://ranjana04.github.io/Simon-game/)
 
 ## ✨ Features
 
